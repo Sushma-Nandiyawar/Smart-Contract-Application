@@ -1,8 +1,10 @@
-### [https://www.MyEtherWallet.com](https://www.MyEtherWallet.com)
 
-### [Chrome Extension](https://chrome.google.com/webstore/detail/myetherwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm)
+# Smart Contract Application
+[https://www.MyEtherWallet.com](https://www.MyEtherWallet.com)
 
-### [Download the Latest Release](https://github.com/kvhnuke/etherwallet/releases/latest)
+[Chrome Extension](https://chrome.google.com/webstore/detail/myetherwallet-cx/nlbmnnijcnlegkjjpcfjclmcfggfefdm)
+
+[Download the Latest Release](https://github.com/kvhnuke/etherwallet/releases/latest)
 
 - etherwallet-vX.X.X.X.zip is the smaller package containing the gh-pages branch aka MyEtherWallet.com
 - chrome-extension-vX.X.X.X.zip is the chrome extension package
